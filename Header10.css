@@ -1,0 +1,268 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif;}
+
+body{background-color: rgba(47, 24, 147, 1);}
+
+.H10Head
+{
+    /* background-color: aquamarine    ; */
+    margin-left: 11rem;
+    margin-right: 11rem;
+    
+}
+
+.H10Headul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    height: 17vh;
+}
+
+.H10blo1
+{
+    width: 20%;
+    /* background-color: beige; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.H10iteam1
+{
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    line-height: 31px;
+}
+
+.H10iteam23
+{
+    opacity: .7;
+    color: white;
+    cursor: pointer;
+}
+.H10blo2
+{
+    width: 45%;
+    /* background-color: beige; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.H10iteam2
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    line-height: 31px;
+    cursor: pointer;
+}
+
+.H10iteam22
+{
+    padding: 1.5% 1.5%;
+    background-color:  rgba(233, 58, 125, 1);
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    line-height: 31px;
+    border-radius: 30rem;
+    width: 25%;
+    line-height: 25px;
+    cursor: pointer;
+}
+
+/* ............... */
+
+.middpart
+{
+    display: flex;
+    /* background-color: brown; */
+    width: 71%;
+    margin: auto;
+    margin-left: 15.5%;
+}
+
+.H10sec
+{
+    /* background-color: antiquewhite; */
+    width: 50%;
+
+}
+
+.H10sec1
+{
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+    line-height: 70px;
+    margin-bottom: 5%;
+}
+
+.H10sec2
+{
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    line-height: 30px;
+    margin-bottom: 10%;
+    width: 75%;
+}
+
+.H10sec3
+
+{
+    padding: 1.5% 1.5%;
+    background-color:  rgba(233, 58, 125, 1);
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    line-height: 31px;
+    border-radius: 30rem;
+    width: 25%;
+    line-height: 25px;
+    cursor: pointer;
+}
+
+.H10asi
+{
+    /* background-color: rgb(198, 108, 108); */
+    width: 41%;
+    margin-left: 8%;
+   
+}
+
+.center
+{
+    background-color: white;
+    padding: 10% ;
+    border-radius: 1rem;
+}
+
+.H10asi1
+{
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 2%;
+    text-align: center;
+    color:  rgba(30, 14, 98, 1);
+}
+
+.H10asi2
+{
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.H10asi22
+{
+   width: 90%;
+   border-color: rgba(235, 234, 237, 1);
+   border: 2px solid rgba(235, 234, 237, 1);
+   height:40px;
+   margin-top: 5%;
+   border-radius: 30rem;
+    padding-left: 20px;
+}
+
+.H10asi4
+{
+    margin-right: 1%;
+    display: flex;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+
+.H10asi41in
+{
+    background: #482BE7;
+    accent-color: aquamarine;
+    width: 20px;
+    height: 20px;
+}
+
+.H10asi42{
+    margin-left: 5%;
+}
+
+.H10asi5
+{
+    background-color:  rgba(72, 43, 231, 1);
+    padding: 10px 10px;
+    border-radius: 25px ;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-weight: 500;
+    line-height: 26px;
+    cursor: pointer;
+}
+
+.H10asi7
+{
+    background-color:rgba(29, 161, 242, 1);
+    ;
+    padding: 10px 10px;
+    border-radius: 25px ;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white; 
+    font-weight: 500;
+    line-height: 26px;
+    cursor: pointer;
+}
+
+.H10asi8
+{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+.H10asi82
+{
+        margin-left: 3%;
+        color:  rgba(37, 218, 197, 1);
+        font-weight: 500;
+        line-height: 28px;
+        cursor: pointer;
+}
+
+.H10asi81
+{
+    color: rgba(21, 20, 57, 0.4);
+    font-weight: 500;
+    line-height: 28px;
+    
+}
+
+
+.H10asi6
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.H10asi62
+{
+    
+    font-size: 19px;
+    color: rgb(194, 191, 191);
+}
+
+.H10asi61,.H10asi63
+{
+    margin-top: 2%;
+    opacity: .7;
+}
